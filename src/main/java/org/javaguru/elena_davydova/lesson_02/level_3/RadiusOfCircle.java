@@ -9,12 +9,18 @@ public class RadiusOfCircle {
         double radius = scanner.nextDouble();
 
         double PI = 3.14159;
-
         double perimeter = 2 * PI * radius;
-
         double area = PI * (radius * radius);
 
         System.out.println("Perimeter is = " + perimeter);
         System.out.println("Area is = " + area);
+
+        /*
+        double circleArea = Math.PI + radius * radius;
+        System.out.println("Circle area = " + circleArea);
+
+        double circlePerimeter = 2 * Math.PI * radius;
+        System.out.println("Circle perimeter = " + circlePerimeter);
+         */
     }
 }
