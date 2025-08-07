@@ -8,7 +8,7 @@ Vary + Able = Variable
 Variable value can be changed during program execution. Here 'vary' word represent variation, it means we can change the value of a variable during
 program execution.
 
-For Example, in below code snippet, we have declared a variable number, then in next step we initialized its value and then we modiÚed its value. We will
+For Example, in below code snippet, we have declared a variable number, then in next step we initialized its value, and then we modified its value. We will
 refer below code snippet multiple time to understand variable declaration, assignment and initialization in detail in subsequent topics.
 
 public class VariableDemo {

@@ -1,4 +1,4 @@
-package org.javaguru.elena_davydova.lesson_02.level_6;
+package org.javaguru.elena_davydova.lesson_02.homework.level_6;
 
 public class AttentionPlease {
 

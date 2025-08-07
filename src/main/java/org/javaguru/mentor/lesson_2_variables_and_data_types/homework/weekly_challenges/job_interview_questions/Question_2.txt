@@ -10,5 +10,5 @@ boolean flag;
 String name;
 
 Here number, flag and name are variable name and int, boolean and String are their respective data types.
-Java is known as strictly typed language as it is mandatory to specify a data type of a variable before variable name. in java. It is used by compiler to help
+Java is known as strictly typed language as it is mandatory to specify a data type of variable before variable name. in java. It is used by compiler to help
 programmer avoid any mistakes such as storing String values to integer variables.

@@ -1,4 +1,4 @@
-package org.javaguru.elena_davydova.lesson_02.level_7;
+package org.javaguru.elena_davydova.lesson_02.homework.level_7;
 
 public class NoSleepNoFocus {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.javaguru.elena_davydova.lesson_02.level_4;
+package org.javaguru.elena_davydova.lesson_02.homework.level_4;
 
 public class PrintCommands {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.javaguru.elena_davydova.lesson_02.level_2;
+package org.javaguru.elena_davydova.lesson_02.homework.level_2;
 
 import java.util.Scanner;
 

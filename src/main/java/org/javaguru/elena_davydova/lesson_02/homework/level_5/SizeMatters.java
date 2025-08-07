@@ -1,4 +1,4 @@
-package org.javaguru.elena_davydova.lesson_02.level_5;
+package org.javaguru.elena_davydova.lesson_02.homework.level_5;
 
 public class SizeMatters {
     public static void main(String[] args) {
