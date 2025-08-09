@@ -1,4 +1,4 @@
-package org.javaguru.elena_davydova.lesson_03.homework;
+package org.javaguru.elena_davydova.lesson_03.homework.level1;
 
 public class RobotApp {
     public static void main(String[] args) {
