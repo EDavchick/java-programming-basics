@@ -16,6 +16,8 @@ class MinNumber {
         } else {
             System.out.println(number2);
         }
+        System.out.println(Math.min(number1, number2));
+
     }
 
 }
