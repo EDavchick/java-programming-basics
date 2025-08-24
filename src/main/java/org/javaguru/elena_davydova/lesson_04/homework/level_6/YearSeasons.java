@@ -44,7 +44,7 @@ public class YearSeasons {
                 System.out.println("This is autumn");
                 break;
             default:
-                System.out.println("Wrong number. Enter the month from 1 to 12");
+                System.out.println("Wrong number. Enter the month from 1 to 12.");
         }
     }
 }
