@@ -8,12 +8,12 @@ public class DifficultPercentApp {
                 "Principal = 1000.0, " +
                 "interestRatePerYear = 0.02, " +
                 "numberOfYearsInvested = 10 = "
-                + df.findDifficultPercent(1000, 0.2, 0.02, 10));
+                + df.findDifficultPercent(1000, 0.2, 1, 10));
 
         System.out.println(
                 "Principal = 5000.0, " +
                 "interestRatePerYear = 0.05, " +
                 "numberOfYearsInvested = 10 = "
-                + df.findDifficultPercent(5000, 0.1, 0.05, 10));
+                + df.findDifficultPercent(5000, 0.1, 2, 10));
     }
 }
