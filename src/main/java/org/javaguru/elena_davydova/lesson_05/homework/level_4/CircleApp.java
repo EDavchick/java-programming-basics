@@ -1,9 +1,9 @@
-package org.javaguru.mentor.lesson_5_methods.homework.solutions.level_4.task_1;
+package org.javaguru.elena_davydova.lesson_05.homework.level_4;
 
-class CircleServiceDemo {
-
+public class CircleApp {
     public static void main(String[] args) {
-        CircleService circleService = new CircleService();
+        Circle circleService = new Circle();
+
         System.out.println("Area (r = 2.0) = " + circleService.calculateArea(2.0));
         System.out.println("Area (r = 3.0) = " + circleService.calculateArea(3.0));
         System.out.println("Area (r = 4.0) = " + circleService.calculateArea(4.0));
@@ -12,13 +12,4 @@ class CircleServiceDemo {
         System.out.println("Perimeter (r = 3.0) = " + circleService.calculatePerimeter(3.0));
         System.out.println("Perimeter (r = 4.0) = " + circleService.calculatePerimeter(4.0));
     }
-    /*
-    Area (r = 2.0) = 12.566370614359172
-    Area (r = 3.0) = 28.274333882308138
-    Area (r = 4.0) = 50.26548245743669
-    Perimeter (r = 2.0) = 12.566370614359172
-    Perimeter (r = 3.0) = 18.84955592153876
-    Perimeter (r = 4.0) = 25.132741228718345
-     */
-
 }
