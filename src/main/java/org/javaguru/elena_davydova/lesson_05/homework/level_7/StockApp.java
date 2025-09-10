@@ -6,9 +6,9 @@ public class StockApp {
 
         int countStock = stockService.stock.countStock();
         double[] prices = stockService.stock.listPrices(countStock);
-        double maxPrice = stockService.maxPriceStock(prices);
-        double minPrice = stockService.minPriceStock(prices);
-        double averagePrice = stockService.averagePriceStock(prices);
+        stockService.maxPriceStock(prices);
+        stockService.minPriceStock(prices);
+        stockService.averagePriceStock(prices);
 
         System.out.println("Program is finished.");
     }
